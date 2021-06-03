@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seamans dream, of a great fight between several men of war, near the Downes and the Long-Sand-Head, the elements being in a very pleasing calm, as I thought, gave me opportunity of a free prospect of this following encounter.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58894</idno><idno type="EEBO-CITATION">99833551</idno>
+  <idno type="VID">38028</idno>
+  <idno type="EEBO-PROQUEST">2240947518</idno>
+  
+            <idno type="STC">Wing S2188</idno>
+            <idno type="STC">ESTC R222370</idno>
+            <idno type="PROQUEST">99833551</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833551e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38028)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2216:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seamans dream, of a great fight between several men of war, near the Downes and the Long-Sand-Head, the elements being in a very pleasing calm, as I thought, gave me opportunity of a free prospect of this following encounter.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Naval battles --  Early works to 1800.</term>
+               <term type="topical_term">Dreams --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38028:1"/>
+            <head>THE Seamans Dream, Of a great FIGHT: between several Men of War, Near The DOWNES AND THE LONG-SAND-HEAD, <hi>The Elements being in a very pleasing Calm, as I thought, gave me opportunity of a free Pro<g ref="char:EOLhyphen"/>spect of this following Encounter.</hi>
+            </head>
+            <p>AT the first, according to my Thinking, there appeared a Magnificent Ship, whose Maje<g ref="char:EOLhyphen"/>stical Stature bespoke her to be the <hi>Royal Soveraign,</hi> Sayling gradually, as representing Melancholly. Presently came up a Friggot Sail<g ref="char:EOLhyphen"/>ing up and down more nimbly, dancing as it were, to divert the <hi>Soveraign,</hi> called the <hi>Dutchess:</hi> but the Jig was interrupted by the <hi>Rupert;</hi> who jostling her aside, bore up to the <hi>Soveraign,</hi> and lay by her Side, as it were to Consult or receive Orders from her. These were again disturbed by the Royal <hi>James,</hi> which with full say I came between the <hi>Soveraign</hi> and the <hi>Rupert</hi> and not on<g ref="char:EOLhyphen"/>ly divided them but prepared for a Fight with
+<pb n="2" facs="tcp:38028:2"/>the <hi>Rupert,</hi> this was presently understood by the <hi>London,</hi> who as furiously came up and fell upon the <hi>James,</hi> nor would desist till she had put her to Chase: great had been the Conflict, had not the <hi>Prince</hi> come up and enterposed. When this was done, the <hi>London</hi> tacks about, running out her double T eire and was for sinking the <hi>Dut<g ref="char:EOLhyphen"/>chess;</hi> which had not the <hi>Royal Charles</hi> defended had gon inevitably to the Bottom. The Ingage<g ref="char:EOLhyphen"/>ment thus begun, a Counsel was call'd &amp; amongst those, it was observed, there was one Ship so cunnigly contrived, on purpose as it were, for all Winds, and with conveniency could tack about and bear Alee, sometimes to the <hi>Soveraign,</hi> and sometimes to the <hi>London,</hi> and presently sayling aside, had many <hi>Fire-ships</hi> to attend her; but af<g ref="char:EOLhyphen"/>ter some Conferences, they were dispers'd and she returned to the Counsel; but not long after the Fleet was a-Fire in the Rear, which was unfortu<g ref="char:EOLhyphen"/>nately carried on with a <hi>North</hi>-wind arising at the same time, and had undoubtedly endangered all of them, had not the Valliant new <hi>James</hi> come spee<g ref="char:EOLhyphen"/>dily to quench them, and reduce them to Order, other Privateers were held as accessary to this Combustion, but their names were not discovered. But in my Dream I thought that from what was seen, might easily be gathered, that if that Ship (whose Name was <hi>Turn-well, Lurcher, Shift-all,</hi> having many Names, and for many things) was not speedily removed from the <hi>Soveraign,</hi> the Royal Navy would infallibly be Ruined: and then I Awak'd.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
